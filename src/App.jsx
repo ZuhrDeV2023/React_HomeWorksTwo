@@ -5,7 +5,7 @@ import Filter from './components/Filter'
 import AddStudent from './components/AddStudent'
 import Template from './components/Template'
 
-import './js/data'
+// import './js/data'
 // import './js/main'
 
 import './App.css'
