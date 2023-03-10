@@ -3,7 +3,7 @@ import './bootstrap-5.0.2-dist/js/bootstrap.min.js'
 import Header from './components/header'
 import Filter from './components/Filter'
 import AddStudent from './components/AddStudent'
-import Template from './components/Template'
+// import Template from './components/Template'
 
 // import './js/data'
 // import './js/main'
@@ -18,7 +18,7 @@ function App() {
       <Header />
       <Filter />
       <AddStudent />
-      <Template />
+      {/* <Template /> */}
     </div>
   )
 }
